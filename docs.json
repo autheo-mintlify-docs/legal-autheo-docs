@@ -13,31 +13,32 @@
       {
         "group": "Legal agreements and notices",
         "pages": [
-          "start-here/autheo-os-model",
-          "start-here/architecture-at-a-glance",
-          "start-here/components-map",
-          "start-here/terminology",
-          "start-here/glossary"
+          "legal-agreements/cookie-policy",
+          "legal-agreements/general-disclaimer",
+          "legal-agreements/end-user-license",
+          "legal-agreements/privacy-policy",
+          "legal-agreements/gdpr-policy",
+          "legal-agreements/terms-of-service"
         ]
       },
       {
         "group": "Autheo validator node sale supporting site policies (v1.0)",
         "pages": [
-          "start-here/autheo-os-model",
-          "start-here/architecture-at-a-glance",
-          "start-here/components-map",
-          "start-here/terminology",
-          "start-here/glossary"
+          "node-sale-policies/risk-notice",
+          "node-sale-policies/privacy-kyc"
         ]
       },
       {
         "group": "Autheo validator node purchase and license agreement (v1.0)",
         "pages": [
-          "start-here/autheo-os-model",
-          "start-here/architecture-at-a-glance",
-          "start-here/components-map",
-          "start-here/terminology",
-          "start-here/glossary"
+          "node-sale-purchase/license-agreement",
+          "node-sale-purchase/exhibit-a",
+          "node-sale-purchase/exhibit-b",
+          "node-sale-purchase/exhibit-c",
+          "node-sale-purchase/exhibit-d",
+          "node-sale-purchase/exhibit-e",
+          "node-sale-purchase/exhibit-f",
+          "node-sale-purchase/exhibit-g"
         ]
       }
     ]
