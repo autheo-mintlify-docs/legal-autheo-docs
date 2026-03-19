@@ -54,13 +54,12 @@
         "href": "mailto:legal@autheo.com"
       }
     ],
-    "primary": [
-      {
-        "type": "button",
-        "label": "autheo.com",
-        "href": "https://www.autheo.com/"
-      }
-    ]
+    "primary": {
+      "type": "button",
+      "label": "autheo.com",
+      "href": "https://www.autheo.com/"
+    }
+    
   },
   "contextual": {
     "options": [
